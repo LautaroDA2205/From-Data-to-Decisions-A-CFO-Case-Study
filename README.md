@@ -63,4 +63,47 @@ This project simulates the role of a Chief Financial Officer (CFO) by analyzing 
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools Used
+
+* Python (Pandas, Matplotlib)
+* Tableau Public
+* Jupyter Notebook
+
+---
+
+## 🚀 Project Value
+
+This project demonstrates:
+
+* End-to-end data analysis workflow
+* Business-oriented thinking
+* Ability to translate data into strategic decisions
+* Data visualization and storytelling skills
+
+---
+
+## 📁 Project Structure
+
+```
+/data
+    Sample - Superstore.csv
+    superstore_clean.csv
+
+/notebooks
+    analysis.ipynb
+
+/tableau
+    superstore_dashboard.twbx
+
+/images
+    dashboard.png
+
+README.md
+```
+
+---
+
+## 📌 Final Note
+
+The company shows strong revenue growth but suffers from structural profitability issues.
+Addressing discount policies and low-margin segments is key to sustainable performance.
