@@ -1,1 +1,66 @@
-# From-Data-to-Decisions-A-CFO-Case-Study
+# 📊 From Data to Decisions: A CFO Case Study
+
+## 🎯 Objective
+
+This project simulates the role of a Chief Financial Officer (CFO) by analyzing retail sales data to extract actionable insights and support strategic decision-making.
+
+---
+
+## 📦 Dataset
+
+* Source: Superstore dataset
+* Content: Sales transactions including revenue, profit, discounts, customers, and regions
+
+---
+
+## ⚙️ Process
+
+### 1. Data Preparation (Python)
+
+* Data cleaning and column selection
+* Date formatting and time features (YearMonth)
+* Creation of key metrics:
+
+  * Profit Margin = Profit / Sales
+
+### 2. Analysis
+
+* KPI analysis (Revenue, Profit, Margin)
+* Profitability by category and region
+* Discount impact on profitability
+* Time series analysis (monthly revenue trend)
+
+### 3. Visualization (Tableau)
+
+* Interactive dashboard to communicate insights
+* Focus on business storytelling and decision-making
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## 🔍 Key Insights
+
+* 📈 Revenue shows an upward trend but with high volatility
+* ⚠️ Profitability is impacted by excessive discounting
+* 🪑 Furniture category has very low margins (~2%)
+* 🌍 Central region underperforms compared to others
+* 💡 Revenue ≠ Profit → growth is not always efficient
+
+---
+
+## 🧠 Strategic Recommendations
+
+* Reduce exposure to low-margin products (Furniture)
+* Implement discount control policies
+* Focus on high-profit customers and segments
+* Optimize underperforming regions (Central)
+* Improve forecasting to manage volatility
+
+---
+
+## 🛠️ Tools
